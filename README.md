@@ -24,28 +24,3 @@ Creating dvc.yaml file using [code](https://dvc.org/doc/command-reference/run):
 * push the code to github
 
 * create the .github/workflow/train.yaml and copy the code inside train.yaml  => (making CML workflow)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```bash
-
-```
