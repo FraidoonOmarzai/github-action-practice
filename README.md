@@ -21,6 +21,10 @@ Creating dvc.yaml file using [code](https://dvc.org/doc/command-reference/run):
     dvc run -n process -d process_data.py -o data_processed.csv --no-exec python process_data.py
 ```
 
+* push the code to github
+
+* create the .github/workflow/train.yaml and copy the code inside train.yaml  => (making CML workflow)
+
 
 
 
